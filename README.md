@@ -1,2 +1,3 @@
 # theohigham.com
-My personal website, where I host blogs, music and my portfolio (coding/business). 
+Built using HTML, CSS and BootStrap.
+Credit to w3schools.com for the initial templates.
